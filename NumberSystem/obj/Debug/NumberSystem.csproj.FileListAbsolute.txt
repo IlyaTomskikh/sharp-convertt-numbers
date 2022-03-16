@@ -1,0 +1,6 @@
+/home/homeuser/RiderProjects/lab1/NumberSystem/bin/Debug/NumberSystem.dll
+/home/homeuser/RiderProjects/lab1/NumberSystem/bin/Debug/NumberSystem.pdb
+/home/homeuser/RiderProjects/lab1/NumberSystem/obj/Debug/NumberSystem.csprojAssemblyReference.cache
+/home/homeuser/RiderProjects/lab1/NumberSystem/obj/Debug/NumberSystem.csproj.CoreCompileInputs.cache
+/home/homeuser/RiderProjects/lab1/NumberSystem/obj/Debug/NumberSystem.dll
+/home/homeuser/RiderProjects/lab1/NumberSystem/obj/Debug/NumberSystem.pdb
